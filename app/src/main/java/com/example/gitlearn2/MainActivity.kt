@@ -5,6 +5,8 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
+    // ööÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ
+
 
     // ööÖÖööÖÖöÖöÖÖöö
 
