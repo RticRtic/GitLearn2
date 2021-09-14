@@ -9,6 +9,9 @@ class MainActivity : AppCompatActivity() {
     // ööÖÖööÖÖöÖöÖÖöö
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
+        //öööööööööÖÖÖöÖÖÖö
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
